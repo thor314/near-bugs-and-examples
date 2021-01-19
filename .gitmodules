@@ -1,0 +1,18 @@
+[submodule "near-template"]
+	path = near-template
+	url = https://github.com/thor314/near-template
+[submodule "near_cross_n_sim_ex"]
+	path = near_cross_n_sim_ex
+	url = https://github.com/thor314/near_cross_n_sim_ex
+[submodule "spooky-inconsistent-test-bug"]
+	path = spooky-inconsistent-test-bug
+	url = https://github.com/thor314/spooky-inconsistent-test-bug
+[submodule "near-factory-pattern"]
+	path = near-factory-pattern
+	url = https://github.com/thor314/near-factory-pattern
+[submodule "near_multibindgen_bug"]
+	path = near_multibindgen_bug
+	url = https://github.com/thor314/near_multibindgen_bug
+[submodule "borsh-error"]
+	path = borsh-error
+	url = https://github.com/thor314/borsh-error
