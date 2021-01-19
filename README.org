@@ -1,0 +1,12 @@
+* What this:
+I made a bunch of toy directories while writing Mintbase's core contracts to
+document bugs and/or to try out complex features before implementing them for
+realz.
+
+Most of note is =near-template=, which you may want to clone for your dumb toy
+directories too. =near_cross_n_sim_ex= may also be of interest, as it documents
+the setup of a Rust monorepo setup with multiple contracts that interface with
+one another.
+
+If you have questions about these directories (perhaps because you're running
+into a parallel confusion/issue), feel free to drop me an issue.
