@@ -16,3 +16,6 @@
 [submodule "borsh-error"]
 	path = borsh-error
 	url = https://github.com/thor314/borsh-error
+[submodule "near-no-std-template"]
+	path = near-no-std-template
+	url = https://github.com/thor314/near-no-std-template
